@@ -1,0 +1,12 @@
+a=143
+b=267
+print("Addition:",a+b)
+a=14
+b=11
+print("Subtraction:",a-b)
+a=2
+b=10
+print("Division:",a%b)
+a=6
+b=6
+print("Multiplication:",a*b)
